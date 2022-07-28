@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/blogo/clientlibs"/>
+    <filter root="/apps/blogo/components"/>
+    <filter root="/apps/blogo/i18n"/>
+</workspaceFilter>
